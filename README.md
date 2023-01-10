@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **development of new perovskite materials**
 
-- 🌱 I’m currently learning **pytorch and advanced visualisation techniques**
+- 🌱 I’m learning **pytorch and advanced visualisation techniques**
 
 - 👯 I’m looking to collaborate on **data analysis / ML / AI**
 
 - 💬 Ask me about **ML in chemistry**
 
-- 📫 How to reach me **jiri.hostas@gmail.com**
+- 📫 Reach me at **jiri.hostas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
