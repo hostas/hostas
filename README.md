@@ -5,9 +5,9 @@
 
 - 🌱 I’m learning **pytorch and advanced visualisation techniques**
 
-- 👯 I’m looking to collaborate on **data analysis / ML / AI**
+- 👯 I’m looking to collaborate on **data analysis / ML / AI** projects
 
-- 💬 Ask me about **ML in chemistry**
+- 💬 Ask me about **ML and AI in chemistry**
 
 - 📫 Reach me at **jiri.hostas@gmail.com**
 
