@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **development of new perovskite materials**
 
-- 🌱 I’m learning **pytorch and advanced visualisation techniques**
+- 🌱 I’m learning **pytorch**, **cloud computing** and **advanced visualisation techniques**
 
 - 👯 I’m looking to collaborate on **data analysis / ML / AI** projects
 
